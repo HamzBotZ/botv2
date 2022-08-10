@@ -60,7 +60,7 @@ global.ppulsa2 = '0881023363385'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '19515996934'
+global.nomorbot = '79203890637'
 global.nomorown = '6288214989352'
 global.namebot = 'ZxynnBotz'
 global.nameown = 'IlhamGanteng'
@@ -69,8 +69,8 @@ global.nameown = 'IlhamGanteng'
 /*============== STAFF ==============*/
 global.owner = [
   ['6288214989352'],
-  ['19515996934'],
-  ['19203892783'],
+  ['79203890637'],
+  ['79203890637'],
   ['6288214989352', 'IlhamGanteng', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -126,8 +126,8 @@ global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg'
+global.thumb = 'https://telegra.ph/file/4b333eab88fc6b045862a.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/57257d654526e3add0bb7.jpg'
 global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
